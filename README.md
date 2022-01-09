@@ -1,0 +1,2 @@
+# OpticalCharacterRecognition
+ OCR Project
